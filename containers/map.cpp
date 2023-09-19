@@ -1,7 +1,9 @@
+#include <cstdio>
 #include <iostream>
-#include <map>
 using namespace std;
 
-int main(){
-    
+int main()
+{
+    cout << "hello";
+    // map<int, string> myname{{1, "Jan"}, {2, "Tang"}};
 }

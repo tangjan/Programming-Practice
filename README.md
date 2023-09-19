@@ -1,4 +1,4 @@
-# cpp-example
+# cpp-practice
 
 本仓库存储个人练习 Cpp 的例程。
 
