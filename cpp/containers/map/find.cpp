@@ -1,5 +1,4 @@
 // map::find    https://cplusplus.com/reference/map/map/find/
-// map::erase   https://cplusplus.com/reference/map/map/erase/
 
 #include <iostream>
 #include <map>
@@ -21,4 +20,5 @@ int main(){
     it = week.find(3);
 
     cout << it->second;
+    // 输出: Wed
 }
